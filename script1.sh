@@ -1,1 +1,1 @@
-echo "doamne fereste"
+echo "sdgfhjjkl;dzxfcvhbjnmghkjkycifgkvjlbkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa"
